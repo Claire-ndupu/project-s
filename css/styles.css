@@ -1,0 +1,50 @@
+#copy{
+	text-align: center;
+	font-style: bold;
+	font-size: 1.1em;
+
+}
+
+body{
+	background-color: #FCFF95 !important; /*pale yellow*/
+	text-align: center;
+}
+
+header{
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.3em;
+}
+img{
+	max-width: 100%;
+ 	height: auto;
+ 	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	width: 50%;
+	margin-bottom: 15px;
+}
+img.about{
+	width: 40%;
+}
+img.contact{
+	width: 40%;
+}
+a{
+	text-decoration: none;
+	font-weight: bold;
+}
+
+footer {
+
+	height: 100px;
+	font-weight: bold;
+	line-height: 20px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 3em;
+	font-size: 1.5em;
+}
+div i {
+	display: inline-block;
+}
